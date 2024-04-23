@@ -33,6 +33,11 @@ const router = createRouter({
     },
     {
       path: '/',
+      name: "dishover",
+      component:DishoverView
+    },
+    {
+      path: '/home',
       name: 'home',
       component: HomeView
     },

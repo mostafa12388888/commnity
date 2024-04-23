@@ -10,7 +10,7 @@ export default {
 <template>
     <div>
 
-        <router-link to="/">Start</router-link>
+        <router-link to="/home">Start</router-link>
         <div>
             <img src="/public/panas.png" alt="">
             <h1> Quick Delivery</h1>
